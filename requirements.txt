@@ -1,0 +1,28 @@
+# LangChain과 Pydantic을 활용한 광고 웹툰 콘텐츠 생성 프로젝트
+# Content Creator for Advertising Webtoon/Comic
+
+# Core LangChain packages
+langchain
+langchain-openai
+
+# Data validation and parsing
+pydantic
+
+# Environment and configuration
+python-dotenv
+
+# OpenAI API client (dependency of langchain-openai)
+openai
+
+# Additional typing support for Python < 3.10
+typing-extensions
+
+# Web application framework
+streamlit
+
+# Image processing
+Pillow
+
+# Logging and utilities (optional but recommended)
+# These packages may be useful for enhanced functionality
+requests
